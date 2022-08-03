@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\refint\Construtores.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\Construtores\Construtores\obj\Debug\net6.0\ref\Construtores.dll

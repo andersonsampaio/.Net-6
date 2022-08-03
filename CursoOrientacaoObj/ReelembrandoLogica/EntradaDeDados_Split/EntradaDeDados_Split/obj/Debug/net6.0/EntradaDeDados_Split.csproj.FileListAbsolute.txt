@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\bin\Debug\net6.0\EntradaDeDados_Split.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\bin\Debug\net6.0\EntradaDeDados_Split.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\bin\Debug\net6.0\EntradaDeDados_Split.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\bin\Debug\net6.0\EntradaDeDados_Split.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\bin\Debug\net6.0\EntradaDeDados_Split.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\refint\EntradaDeDados_Split.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\EntradaDeDados_Split.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EntradaDeDados_Split\EntradaDeDados_Split\obj\Debug\net6.0\ref\EntradaDeDados_Split.dll

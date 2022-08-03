@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\bin\Debug\net6.0\ClasseExercicio1.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\bin\Debug\net6.0\ClasseExercicio1.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\bin\Debug\net6.0\ClasseExercicio1.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\bin\Debug\net6.0\ClasseExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\bin\Debug\net6.0\ClasseExercicio1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\refint\ClasseExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ClasseExercicio1.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ClasseExercicio1\ClasseExercicio1\obj\Debug\net6.0\ref\ClasseExercicio1.dll

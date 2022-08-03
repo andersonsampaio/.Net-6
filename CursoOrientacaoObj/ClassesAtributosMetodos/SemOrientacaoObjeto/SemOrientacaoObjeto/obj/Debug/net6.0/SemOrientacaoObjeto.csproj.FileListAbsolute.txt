@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\net6.0\SemOrientacaoObjeto.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\net6.0\SemOrientacaoObjeto.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\net6.0\SemOrientacaoObjeto.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\net6.0\SemOrientacaoObjeto.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\bin\Debug\net6.0\SemOrientacaoObjeto.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\refint\SemOrientacaoObjeto.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\SemOrientacaoObjeto.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\SemOrientacaoObjeto\SemOrientacaoObjeto\obj\Debug\net6.0\ref\SemOrientacaoObjeto.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EntradaDeDados_Split/1.0.0": {
+        "runtime": {
+          "EntradaDeDados_Split.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntradaDeDados_Split/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

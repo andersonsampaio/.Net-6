@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\bin\Debug\net6.0\ComposicaoExercicio01.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\bin\Debug\net6.0\ComposicaoExercicio01.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\bin\Debug\net6.0\ComposicaoExercicio01.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\bin\Debug\net6.0\ComposicaoExercicio01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\bin\Debug\net6.0\ComposicaoExercicio01.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\refint\ComposicaoExercicio01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ComposicaoExercicio01.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\EnumeracaoComposicao\ComposicaoExercicio01\ComposicaoExercicio01\obj\Debug\net6.0\ref\ComposicaoExercicio01.dll

@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\bin\Debug\net6.0\ObjectToStringExercicio2.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\bin\Debug\net6.0\ObjectToStringExercicio2.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\bin\Debug\net6.0\ObjectToStringExercicio2.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\bin\Debug\net6.0\ObjectToStringExercicio2.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\bin\Debug\net6.0\ObjectToStringExercicio2.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\refint\ObjectToStringExercicio2.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ObjectToStringExercicio2.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\ObjectToStringExercicio2\ObjectToStringExercicio2\obj\Debug\net6.0\ref\ObjectToStringExercicio2.dll

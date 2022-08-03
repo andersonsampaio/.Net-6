@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\bin\Debug\net6.0\ParseEntradaDados.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\bin\Debug\net6.0\ParseEntradaDados.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\bin\Debug\net6.0\ParseEntradaDados.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\bin\Debug\net6.0\ParseEntradaDados.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\bin\Debug\net6.0\ParseEntradaDados.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\refint\ParseEntradaDados.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ParseEntradaDados.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ParseEntradaDados\ParseEntradaDados\obj\Debug\net6.0\ref\ParseEntradaDados.dll

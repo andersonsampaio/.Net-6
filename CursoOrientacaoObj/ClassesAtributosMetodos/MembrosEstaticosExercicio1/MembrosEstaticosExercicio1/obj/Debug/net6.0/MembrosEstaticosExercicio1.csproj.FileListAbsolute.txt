@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\bin\Debug\net6.0\MembrosEstaticosExercicio1.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\bin\Debug\net6.0\MembrosEstaticosExercicio1.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\bin\Debug\net6.0\MembrosEstaticosExercicio1.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\bin\Debug\net6.0\MembrosEstaticosExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\bin\Debug\net6.0\MembrosEstaticosExercicio1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\refint\MembrosEstaticosExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\MembrosEstaticosExercicio1.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\MembrosEstaticosExercicio1\MembrosEstaticosExercicio1\obj\Debug\net6.0\ref\MembrosEstaticosExercicio1.dll

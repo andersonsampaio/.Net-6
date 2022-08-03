@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\bin\Debug\net6.0\Listas.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\bin\Debug\net6.0\Listas.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\bin\Debug\net6.0\Listas.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\bin\Debug\net6.0\Listas.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\bin\Debug\net6.0\Listas.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\refint\Listas.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\Listas.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\Listas\Listas\obj\Debug\net6.0\ref\Listas.dll

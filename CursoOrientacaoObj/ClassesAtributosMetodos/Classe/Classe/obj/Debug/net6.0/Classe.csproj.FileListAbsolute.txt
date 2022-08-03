@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\bin\Debug\net6.0\Classe.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\bin\Debug\net6.0\Classe.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\bin\Debug\net6.0\Classe.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\bin\Debug\net6.0\Classe.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\bin\Debug\net6.0\Classe.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\refint\Classe.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\Classe.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ClassesAtributosMetodos\Classe\Classe\obj\Debug\net6.0\ref\Classe.dll

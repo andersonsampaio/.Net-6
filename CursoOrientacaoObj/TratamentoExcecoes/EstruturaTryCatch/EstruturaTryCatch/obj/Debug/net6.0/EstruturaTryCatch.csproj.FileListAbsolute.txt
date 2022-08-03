@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\refint\EstruturaTryCatch.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\ref\EstruturaTryCatch.dll

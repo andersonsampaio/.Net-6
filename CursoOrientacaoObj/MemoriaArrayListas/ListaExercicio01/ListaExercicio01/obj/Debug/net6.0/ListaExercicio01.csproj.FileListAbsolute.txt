@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\bin\Debug\net6.0\ListaExercicio01.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\bin\Debug\net6.0\ListaExercicio01.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\bin\Debug\net6.0\ListaExercicio01.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\bin\Debug\net6.0\ListaExercicio01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\bin\Debug\net6.0\ListaExercicio01.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\refint\ListaExercicio01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ListaExercicio01.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\ListaExercicio01\ListaExercicio01\obj\Debug\net6.0\ref\ListaExercicio01.dll

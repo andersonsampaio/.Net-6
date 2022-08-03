@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\bin\Debug\net6.0\VetorExercicio1.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\bin\Debug\net6.0\VetorExercicio1.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\bin\Debug\net6.0\VetorExercicio1.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\bin\Debug\net6.0\VetorExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\bin\Debug\net6.0\VetorExercicio1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\refint\VetorExercicio1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\VetorExercicio1.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\VetorExercicio1\VetorExercicio1\obj\Debug\net6.0\ref\VetorExercicio1.dll

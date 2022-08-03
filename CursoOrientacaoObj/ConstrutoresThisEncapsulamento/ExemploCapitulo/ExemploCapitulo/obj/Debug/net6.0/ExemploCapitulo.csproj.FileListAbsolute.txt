@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\bin\Debug\net6.0\ExemploCapitulo.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\bin\Debug\net6.0\ExemploCapitulo.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\bin\Debug\net6.0\ExemploCapitulo.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\bin\Debug\net6.0\ExemploCapitulo.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\bin\Debug\net6.0\ExemploCapitulo.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\refint\ExemploCapitulo.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ExemploCapitulo.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ExemploCapitulo\ExemploCapitulo\obj\Debug\net6.0\ref\ExemploCapitulo.dll

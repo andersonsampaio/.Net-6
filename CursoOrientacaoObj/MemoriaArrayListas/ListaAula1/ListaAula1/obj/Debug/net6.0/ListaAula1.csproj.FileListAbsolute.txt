@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\bin\Debug\net6.0\ListaAula1.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\bin\Debug\net6.0\ListaAula1.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\bin\Debug\net6.0\ListaAula1.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\bin\Debug\net6.0\ListaAula1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\bin\Debug\net6.0\ListaAula1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\refint\ListaAula1.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ListaAula1.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\ConstrutoresThisEncapsulamento\ListaAula1\ListaAula1\obj\Debug\net6.0\ref\ListaAula1.dll

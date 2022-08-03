@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\bin\Debug\net6.0\MatrizExercicio02.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\bin\Debug\net6.0\MatrizExercicio02.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\bin\Debug\net6.0\MatrizExercicio02.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\bin\Debug\net6.0\MatrizExercicio02.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\bin\Debug\net6.0\MatrizExercicio02.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\refint\MatrizExercicio02.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\MatrizExercicio02.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\MemoriaArrayListas\MatrizEcercicio02\MatrizEcercicio02\obj\Debug\net6.0\ref\MatrizExercicio02.dll

@@ -1,0 +1,15 @@
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\bin\Debug\net6.0\Heranca_x_Interface01.exe
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\bin\Debug\net6.0\Heranca_x_Interface01.deps.json
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\bin\Debug\net6.0\Heranca_x_Interface01.runtimeconfig.json
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\bin\Debug\net6.0\Heranca_x_Interface01.dll
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\bin\Debug\net6.0\Heranca_x_Interface01.pdb
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.csproj.AssemblyReference.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.AssemblyInfoInputs.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.AssemblyInfo.cs
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.dll
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\refint\Heranca_x_Interface01.dll
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.pdb
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\Heranca_x_Interface01.genruntimeconfig.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\Heranca_x_Interface01\Heranca_x_Interface01\obj\Debug\net6.0\ref\Heranca_x_Interface01.dll

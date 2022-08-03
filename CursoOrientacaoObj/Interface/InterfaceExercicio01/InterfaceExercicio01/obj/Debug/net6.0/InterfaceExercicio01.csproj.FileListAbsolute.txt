@@ -1,0 +1,15 @@
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\bin\Debug\net6.0\InterfaceExercicio01.exe
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\bin\Debug\net6.0\InterfaceExercicio01.deps.json
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\bin\Debug\net6.0\InterfaceExercicio01.runtimeconfig.json
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\bin\Debug\net6.0\InterfaceExercicio01.dll
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\bin\Debug\net6.0\InterfaceExercicio01.pdb
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.csproj.AssemblyReference.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.AssemblyInfoInputs.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.AssemblyInfo.cs
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.dll
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\refint\InterfaceExercicio01.dll
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.pdb
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\InterfaceExercicio01.genruntimeconfig.cache
+C:\Users\dti Digital\Documents\MeusProjetos\CursoOrientacaoObj\Interface\InterfaceExercicio01\InterfaceExercicio01\obj\Debug\net6.0\ref\InterfaceExercicio01.dll

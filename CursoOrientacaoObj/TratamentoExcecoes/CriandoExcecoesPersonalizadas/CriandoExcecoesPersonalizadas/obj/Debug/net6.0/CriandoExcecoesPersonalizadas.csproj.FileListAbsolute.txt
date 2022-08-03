@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\net6.0\CriandoExcecoesPersonalizadas.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\net6.0\CriandoExcecoesPersonalizadas.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\net6.0\CriandoExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\net6.0\CriandoExcecoesPersonalizadas.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\net6.0\CriandoExcecoesPersonalizadas.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\refint\CriandoExcecoesPersonalizadas.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\CriandoExcecoesPersonalizadas.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TratamentoExcecoes\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\net6.0\ref\CriandoExcecoesPersonalizadas.dll

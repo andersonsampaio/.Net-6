@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\bin\Debug\net6.0\DateTimePropriedadesOperacoes.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\bin\Debug\net6.0\DateTimePropriedadesOperacoes.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\bin\Debug\net6.0\DateTimePropriedadesOperacoes.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\bin\Debug\net6.0\DateTimePropriedadesOperacoes.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\bin\Debug\net6.0\DateTimePropriedadesOperacoes.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\refint\DateTimePropriedadesOperacoes.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\DateTimePropriedadesOperacoes.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimePropriedadesOperacoes\DateTimePropriedadesOperacoes\obj\Debug\net6.0\ref\DateTimePropriedadesOperacoes.dll

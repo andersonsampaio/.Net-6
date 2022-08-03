@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClasseAtributosMetodosExercicio2/1.0.0": {
+        "runtime": {
+          "ClasseAtributosMetodosExercicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasseAtributosMetodosExercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\bin\Debug\net6.0\DateTimeKindIso.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\bin\Debug\net6.0\DateTimeKindIso.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\bin\Debug\net6.0\DateTimeKindIso.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\bin\Debug\net6.0\DateTimeKindIso.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\bin\Debug\net6.0\DateTimeKindIso.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\refint\DateTimeKindIso.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\DateTimeKindIso.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTimeKindIso\DateTimeKindIso\obj\Debug\net6.0\ref\DateTimeKindIso.dll

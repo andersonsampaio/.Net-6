@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\bin\Debug\net6.0\DateTime_.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\bin\Debug\net6.0\DateTime_.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\bin\Debug\net6.0\DateTime_.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\bin\Debug\net6.0\DateTime_.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\bin\Debug\net6.0\DateTime_.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\refint\DateTime_.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\DateTime_.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\TopicosEspeciais01\DateTime\DateTime\obj\Debug\net6.0\ref\DateTime_.dll

@@ -1,0 +1,15 @@
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\bin\Debug\net6.0\EcercicioProposto01.exe
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\bin\Debug\net6.0\EcercicioProposto01.deps.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\bin\Debug\net6.0\EcercicioProposto01.runtimeconfig.json
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\bin\Debug\net6.0\EcercicioProposto01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\bin\Debug\net6.0\EcercicioProposto01.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.csproj.AssemblyReference.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.AssemblyInfoInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.AssemblyInfo.cs
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.csproj.CoreCompileInputs.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\refint\EcercicioProposto01.dll
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.pdb
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\EcercicioProposto01.genruntimeconfig.cache
+C:\Users\adex4\Documents\Meus-Projetos\CSharp-DTI\CursoOrientacaoObj\HerancaPolimorfismo\EcercicioProposto01\EcercicioProposto01\obj\Debug\net6.0\ref\EcercicioProposto01.dll

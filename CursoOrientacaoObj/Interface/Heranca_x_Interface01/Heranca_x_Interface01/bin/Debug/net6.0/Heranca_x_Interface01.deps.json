@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Heranca_x_Interface01/1.0.0": {
+        "runtime": {
+          "Heranca_x_Interface01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heranca_x_Interface01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
